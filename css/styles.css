@@ -49,11 +49,11 @@ ul {
     color: #4d5ae5;
 }
 
-.logo .logo-textStudioHeader {
+.logo .logo-text-studio-header {
     color: #2e2f42;
 }
 
-.logo .logo-textStudioFooter {
+.logo .logo-text-studio-footer {
     color: #f4f4fd;
 }
 
@@ -93,12 +93,12 @@ ul {
     background-color: #404bbf;
 }
 
-.teamSection li {
+.team-section li {
     box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
 }
 
-.teamSection h3,
-.teamSection p {
+.team-section h3,
+.team-section p {
     text-align: center;
 }
 
