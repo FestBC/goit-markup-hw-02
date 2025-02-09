@@ -38,7 +38,7 @@ ul {
 }
 
 .navigation .first-list-item {
-    letter-spacing: 0.02em
+    letter-spacing: 0.02em;
 }
 
 .contacts {
@@ -112,7 +112,7 @@ ul {
     background-color: #F4F4FD;
 }
 
-.team-section .team-section-list {
+.team-section .list-item {
     background-color: #FFFFFF;
 }
 
